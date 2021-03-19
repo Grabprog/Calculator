@@ -1,0 +1,14 @@
+.calculator {
+    width: 350px;
+    background-color: darkcyan;
+    margin: 0 auto
+}
+.display {
+
+    text-align: center;
+    padding: 10px;
+}
+.toolbar {
+    text-align: center;
+    padding: 10px;
+}
